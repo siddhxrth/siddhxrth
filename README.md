@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sidlohani" target="blank"><img src="https://img.shields.io/twitter/follow/sidlohani?logo=twitter&style=for-the-badge" alt="sidlohani" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [siddharthlohani.dev](https://www.siddharthlohani.dev)
+- 👨‍💻 All of my projects are available at [siddharthlohani.dev](https://siddharthlohani.dev)
 
 - 📫 How to reach me **me@siddharthlohani.dev**
 
