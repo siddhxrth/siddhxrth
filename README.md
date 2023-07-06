@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Lohani</h1>
-<h3 align="center">Full stack developer in High School. Programming President @ FRC Team 6897. I love making scripts that automate tedious tasks!</h3>
+<h3 align="center">I'm pursuing a major in Computer Science at Georgia Tech!</h3>
 
 <p align="left"> <a href="https://twitter.com/sidlohani" target="blank"><img src="https://img.shields.io/twitter/follow/sidlohani?logo=twitter&style=for-the-badge" alt="sidlohani" /></a> </p>
 
