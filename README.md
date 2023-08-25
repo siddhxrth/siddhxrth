@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Lohani</h1>
 <h3 align="center">I'm pursuing a major in Computer Science at Georgia Tech!</h3>
 
-<p align="left"> <a href="https://twitter.com/sidlohani" target="blank"><img src="https://img.shields.io/twitter/follow/sidlohani?logo=twitter&style=for-the-badge" alt="sidlohani" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [siddharthlohani.dev](https://siddharthlohani.dev)
 
 - 📫 How to reach me **me@siddharthlohani.dev**
@@ -10,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siddharthlohani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharthlohani" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14539302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14539302" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
