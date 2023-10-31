@@ -1,6 +1,6 @@
 # Hey there, I'm Siddharth Lohani 👋
 
-I'm a Georgia Tech computer science student passionate about all things tech. Welcome to my GitHub! 🚀
+I'm a Georgia Tech Computer Engineering student passionate about all things tech. Welcome to my GitHub! 🚀
 
 * 🎓 Currently studying at Georgia Tech. Relevant coursework: Linear Algebra, Multivariable Calculus, Intro to Object-Oriented Programming
 * 💡 Always curious, I love turning ideas into code and contributing to open source.
